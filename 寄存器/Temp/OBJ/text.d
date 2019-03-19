@@ -1,0 +1,9 @@
+..\obj\text.o: text.c
+..\obj\text.o: ..\SYSTEM\sys\sys.h
+..\obj\text.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\text.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\text.o: E:\RJ\keil5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\text.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\text.o: ..\SYSTEM\usart\usart.h
+..\obj\text.o: E:\RJ\keil5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\text.o: ..\SYSTEM\delay\delay.h
